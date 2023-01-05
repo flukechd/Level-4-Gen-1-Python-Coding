@@ -19,3 +19,8 @@ pip install pyaudio
 # Install gTTS for Text to speech
 
 pip install gTTS
+
+
+# Install mediapipe for hand detection
+
+pip install mediapipe
