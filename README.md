@@ -24,3 +24,8 @@ pip install gTTS
 # Install mediapipe for hand detection
 
 pip install mediapipe
+
+
+# Install pygame for Game Activity
+
+pip install pygame
